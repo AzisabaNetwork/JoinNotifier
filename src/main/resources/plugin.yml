@@ -1,0 +1,4 @@
+name: JoinNotifier
+version: '${project.version}'
+main: net.azisaba.joinnotifier.JoinNotifier
+api-version: 1.15
